@@ -10,25 +10,31 @@
           <div class="info">
             <div class="row">
               <div class="col-sm-4">
-                <div class="address">
-                  <i class="bi bi-geo-alt"></i>
-                  <h4>Location:</h4>
-                  <p>Depok, West Java</p>
-                </div>
+                <a href="https://www.linkedin.com/in/muhammadagung0708/" target="_blank">
+                  <div class="address">
+                    <i class="bi bi-linkedin"></i>
+                    <h4>LinkedIn:</h4>
+                    <p>muhammadagung0708</p>
+                  </div>
+                </a>
               </div>
               <div class="col-sm-4">
-                <div class="email">
-                  <i class="bi bi-envelope"></i>
-                  <h4>Email:</h4>
-                  <p>muhammadagung0708@gmail.com</p>
-                </div>
+                <a href="mailto:muhammadagung0708@gmail.com" target="_blank">
+                  <div class="email">
+                    <i class="bi bi-envelope"></i>
+                    <h4>Email:</h4>
+                    <p>muhammadagung0708@gmail.com</p>
+                  </div>
+                </a>
               </div>
               <div class="col-sm-4">
-                <div class="github">
-                  <i class="bi bi-github"></i>
-                  <h4>GitHub:</h4>
-                  <p>MuhammadAgungPutraNugroho</p>
-                </div>
+                <a href="https://github.com/AgungPutra0708" target="_blank">
+                  <div class="github">
+                    <i class="bi bi-github"></i>
+                    <h4>GitHub:</h4>
+                    <p>AgungPutra0708</p>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
