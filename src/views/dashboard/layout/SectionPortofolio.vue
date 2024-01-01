@@ -26,14 +26,14 @@
         </li>
       </ul>
 
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+      <div class="row portfolio-container">
         <div
           v-for="item in filteredItems"
           :key="item.id"
           class="col-md-4 col-sm-6 portfolio-item"
           :class="[item.filterClass]"
         >
-          <div class="card w-100 h-100">
+          <div class="card w-100 h-100" data-aos="fade-up" data-aos-delay="200">
             <div class="card-body">
               <h5 class="card-title">{{ item.title }}</h5>
               <p class="card-text">{{ item.description }}</p>

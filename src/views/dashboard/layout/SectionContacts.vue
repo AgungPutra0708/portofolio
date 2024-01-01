@@ -9,7 +9,7 @@
         <div class="col-lg-12 d-flex align-items-stretch">
           <div class="info">
             <div class="row">
-              <div class="col-sm-4">
+              <div class="col-sm-4" data-aos="fade-up" data-aos-delay="200">
                 <a href="https://www.linkedin.com/in/muhammadagung0708/" target="_blank">
                   <div class="address">
                     <i class="bi bi-linkedin"></i>
@@ -18,7 +18,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-sm-4">
+              <div class="col-sm-4" data-aos="fade-up" data-aos-delay="200">
                 <a href="mailto:muhammadagung0708@gmail.com" target="_blank">
                   <div class="email">
                     <i class="bi bi-envelope"></i>
@@ -27,7 +27,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-sm-4">
+              <div class="col-sm-4" data-aos="fade-up" data-aos-delay="200">
                 <a href="https://github.com/AgungPutra0708" target="_blank">
                   <div class="github">
                     <i class="bi bi-github"></i>
