@@ -90,7 +90,7 @@ export default {
           filterClass: 'filter-web',
           title: 'KSPPS Bina Auladi Mandiri',
           description: 'Create using Codeigniter with MySQL.',
-          link: 'http://ksppsbam.com/'
+          link: 'https://demo-bam.000webhostapp.com/'
         }
         // Add more items with appropriate filterClass, imageSrc, title, and description
       ]
