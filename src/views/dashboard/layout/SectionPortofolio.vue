@@ -91,6 +91,13 @@ export default {
           title: 'KSPPS Bina Auladi Mandiri',
           description: 'Create using Codeigniter with MySQL.',
           link: 'http://ksppsbam.com/'
+        },
+        {
+          id: 7,
+          filterClass: 'filter-web',
+          title: 'KitaAnter',
+          description: 'Create using Laravel with MySQL.',
+          link: 'https://kitaanter.id/'
         }
         // Add more items with appropriate filterClass, imageSrc, title, and description
       ]
