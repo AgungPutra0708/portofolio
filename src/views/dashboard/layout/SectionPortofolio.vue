@@ -119,6 +119,20 @@ export default {
           title: 'Sinar Panca',
           description: 'Create using Laravel with MySQL.',
           link: 'https://sinarpanca.id/'
+        },
+        {
+          id: 11,
+          filterClass: 'filter-web',
+          title: 'PT Toba Surimi Industries',
+          description: 'Create using CodeIniter 4 with MySQL.',
+          link: 'https://tsi.lyrid.id/'
+        },
+        {
+          id: 12,
+          filterClass: 'filter-web',
+          title: 'Pasar Baru Trade Center',
+          description: 'Create using CodeIniter 4 with MySQL.',
+          link: 'https://pbtc.lyrid.id/'
         }
         // Add more items with appropriate filterClass, imageSrc, title, and description
       ]
