@@ -98,6 +98,20 @@ export default {
           title: 'KitaAnter',
           description: 'Create using Laravel with MySQL.',
           link: 'https://kitaanter.id/'
+        },
+        {
+          id: 8,
+          filterClass: 'filter-web',
+          title: 'BMT SARANA',
+          description: 'Create using Laravel with MySQL.',
+          link: 'https://buku.bmtsarana.id/'
+        },
+        {
+          id: 9,
+          filterClass: 'filter-web',
+          title: 'Bukit Kehi',
+          description: 'Create using Laravel with MySQL.',
+          link: 'https://bukitkehi.com/'
         }
         // Add more items with appropriate filterClass, imageSrc, title, and description
       ]
